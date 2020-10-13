@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 29.358px;
+}
+
+.solid-outline {
+    margin-bottom: 26px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 18px solid pink;
+}
+
+.purple-rectangle {
+    height: 80px;
+    width: 50px;
+    display: inline-block;
+    background-color: rosybrown;
+}
+
+.green-rectangle {
+    margin: 0 20px;
+    height: 110px;
+    width: 210px;
+    display: inline-block;
+    background-color: olivedrab;
+}
+
+.blue-circle {
+    height: 110px;
+    width: 110px;
+    border-radius: 90%;
+    display: inline-block;
+    background-color: palevioletred;
+}
+
+.dotted-outline {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: dotted royalblue;
+}
+
+.tan-ish-rectangle {
+    margin: 0 auto;
+    height: 110px;
+    width: 95%;
+    padding: 12px;
+    box-shadow: 7px 7px indianred;
+    background-color: slateblue;
+}
+
+.word-box {
+    margin: 25px auto;
+    height: 220px;
+    width: 400px;
+    border: 1px solid lemonchiffon;
+    padding: 100px;
+    box-sizing: border-box;
+    box-shadow: 3px 3px  5px 0px darkorange;
+    background-color: white;
+    
+}
+
+.word-box p {
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    letter-spacing: 10px;
+    
+}
